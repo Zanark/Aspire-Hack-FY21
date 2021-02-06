@@ -16,6 +16,7 @@ _global_script_class_icons={
 [application]
 
 config/name="Virtual-Town-Hall-server"
+run/main_scene="res://Scenes/Admin Portal.tscn"
 config/icon="res://icon.png"
 
 [rendering]

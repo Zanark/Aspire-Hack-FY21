@@ -16,6 +16,7 @@ _global_script_class_icons={
 [application]
 
 config/name="Virtual-Town-Hall"
+run/main_scene="res://Scenes/Node2D.tscn"
 config/icon="res://icon.png"
 
 [rendering]
